@@ -1,0 +1,9 @@
+# A very simple forest carbon cycle model for demonstrating ecosystem dynamics
+
+This model provides a demonstration of forest carbon cycling concepts including photosynthesis, litterfall, disturbance, soil respiration, and responses to warming and CO2 fertilization.
+
+The model is implemented as a python Jupyter notebook. Python packages required are matplotlib, numpy, and pandas.
+
+The easiest way to get the notebook running is to install the Anaconda python package on your system: https://anaconda.com
+
+Then, open the Anaconda navigator app and launch Jupyter Notebook. Next, navigate to this directory and open simple_ecosystem_model.ipynb. Now you can run the demonstration and experiment with changing parameters!
